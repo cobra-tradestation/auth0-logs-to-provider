@@ -3,6 +3,7 @@
   "type": "cron",
   "category": "log_export",
   "initialUrlPath": "/login",
+  "codeUrl": "https://raw.githubusercontent.com/cobra-tradestation/auth0-logs-to-provider/master/dist/blobstorage/auth0-logs-to-azure-blob-storage-custom.extension.2.2.3.js",
   "repository": "https://github.com/auth0-extensions/auth0-logs-to-provider",
   "keywords": [
     "auth0",
